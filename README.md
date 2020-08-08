@@ -9,10 +9,20 @@ Datsset:  https://www.kaggle.com/einsteindata4u/covid19?select=dataset.xlsx#
 - Prerequisites
  - python 3+ 
  - jupyter or any other notebook
+ - pandas
+ - numpy
+ - datetime
+ - matplotlib
+ - re
+ - seaborn
+ - array
+ - sklearn
+ - scipy.special
 
 3) Usage
 #
-This project use machine learning and statistical methods like linear regression and polynomial regression  to build our algorithms to predict for future days
+This project use machine learning and statistical methods like linear regression and polynomial regression to build our algorithms to predict for future days.  At the time of this project the amount of data available was inconsistent.  However, more data is available, and the code 
+can be used to predict future days.
 #
 4) Acknowledgements
 # Credits:
