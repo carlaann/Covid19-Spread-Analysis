@@ -1,21 +1,22 @@
-## Project name: Machine Learning of Covid19 Spread Analysis Using Polynomial 
+## Machine Learning of Covid19 Spread Analysis Using Polynomial 
 #
-Description: COVID-19 is a newly discovered infectious disease that can cause mild to severe respiratory illness.  It appears those with underlying conditions such as diabetes, hypertension, cardiovascular disease, and other serious illness are more at risk.  COVID-19 is an RNA virus which belongs to the family coronavirus.  It was initially emerged in China around December 2019.  The wide spread of this virus has become a pandemic. The goal of this project is to analyze the daily cases of corona virus based on confirmed cases, deaths and other parameters and predict for future days number of confirmed cases and spread factor. Spread factor is like a growth measure of this pandemic. It is calculated based on the positive increase of cases each day compared to the previous day. If the spread factor goes down, the curve of this pandemic will flatten and go down and we will witness less spread everyday of this virus. Machine learning and statistical methods like linear regression and polynomial regression were used to build our algorithms to predict for future days
+1) Description
+COVID-19 is a newly discovered infectious disease that can cause mild to severe respiratory illness.  It appears those with underlying conditions such as diabetes, hypertension, cardiovascular disease, and other serious illness are more at risk.  COVID-19 is an RNA virus which belongs to the family coronavirus.  It was initially emerged in China around December 2019.  The wide spread of this virus has become a pandemic. The goal of this project is to analyze the daily cases of corona virus based on confirmed cases, deaths and other parameters and predict for future days number of confirmed cases and spread factor. Spread factor is like a growth measure of this pandemic. It is calculated based on the positive increase of cases each day compared to the previous day. If the spread factor goes down, the curve of this pandemic will flatten and go down and we will witness less spread everyday of this virus. Machine learning and statistical methods like linear regression and polynomial regression were used to build our algorithms to predict for future days
 #
-# Installation: 
+2)  Installation
 #
-To execute this project, the following applications are required:
-1.	Python3 or Anaconda distribution with Python 3
-2.	Jupyter or any other notebook
-3.	Anaconda distribution alone should be enough. Find it https://www.anaconda.com/products/individual
-           #
-# Usage: 
+Datsset:  https://www.kaggle.com/einsteindata4u/covid19?select=dataset.xlsx#
+- Prerequisites
+ - python 3+ 
+ - jupyter or any other notebook
 
-Updates for this project will monitored.  The data has been retrieved from  https://www.kaggle.com/einsteindata4u/covid19?select=dataset.xlsx#
-
+3) Usage
+#
+This project use machine learning and statistical methods like linear regression and polynomial regression  to build our algorithms to predict for future days
+#
+4) Acknowledgements
 # Credits:
 Author:  Carla Harrell
-#Acknowledgements:
 #
 The raw data pulled and arranged by the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) from the following resources:
 1.	https://www.kaggle.com/tanuprabhu/population-by-country-2020
